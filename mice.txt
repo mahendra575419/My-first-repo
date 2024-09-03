@@ -1,5 +1,5 @@
-m mighty (change on line 1)
-o outside
-u under (change on line 3)
+m mammal
+o optical
+u unique 
 s small
 e endive (change on line 5)         
